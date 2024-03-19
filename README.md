@@ -1,1 +1,1 @@
-Aulas 1, 2 e 5 foram aulas teóricas, sem exercícios.
+Aulas 1, 2, 5 e 9 foram aulas teóricas, sem exercícios.
